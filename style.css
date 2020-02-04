@@ -1,0 +1,64 @@
+h1,h2 {
+    color: green;
+}
+
+
+label,legend{
+    color: darkred;
+}
+
+em{
+    color: orange   ;
+}
+
+ul ul {
+    color: red;
+}
+
+tr>th {
+    font-weight: bold;
+}
+
+input, select, textarea {
+    margin: 2px;
+}
+button , select{
+    margin: 3px;
+    border-radius: 5px;
+}
+
+textarea{
+    display: block;
+}
+
+.orange{
+    color: orange;
+    font-weight: bold;
+}
+table, th , td{
+    border: 1px black solid;
+}
+thead{
+    font-weight: bold;
+}
+tr>td, .social{
+    color: blue;
+}
+
+.radio{
+    padding: 10px;
+    color: darkred;
+}
+
+td+td {
+    color: purple   ;
+}
+
+#twitter{
+    color: lightblue;
+}
+
+.gender{
+    border: 1px black solid;
+    padding-left: 10px;
+}
